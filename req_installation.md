@@ -22,6 +22,14 @@ pip3 install scikit-learn
 
 or you can run
 
+###For conda
+
 ```
-pip install req.txt
+conda install req_conda.txt
+```
+
+###For pip
+
+```
+pip install req_pip.txt
 ```
